@@ -12,3 +12,5 @@ in the about screen accessed from the menu you can find the sources links for th
 
 
 ![20190514_120748](https://user-images.githubusercontent.com/33417968/57685714-28255d80-7641-11e9-9303-73db8a47a84e.gif)
+
+used json formatter to understand the data structure: https://jsonformatter.curiousconcept.com/
