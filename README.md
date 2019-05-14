@@ -7,6 +7,6 @@ there is a menu where you can access the setting for the app - choosing the city
 
 in the about screen accessed from the menu you can find the sources links for the app data and icons
 
-YOU WILL NEED TO GET AN API KEY FROM APIXU TO USE THIS APP!!!! put it in api_key in the strings.xml file
+***YOU WILL NEED TO GET AN API KEY FROM APIXU TO USE THIS APP!!!! put it in api_key in the strings.xml file ***
 
 
