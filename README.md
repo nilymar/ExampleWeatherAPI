@@ -10,3 +10,4 @@ in the about screen accessed from the menu you can find the sources links for th
 ***YOU WILL NEED TO GET AN API KEY FROM APIXU TO USE THIS APP!!!! put it in api_key in the strings.xml file ***
 
 
+![20190514_120748](https://user-images.githubusercontent.com/33417968/57685714-28255d80-7641-11e9-9303-73db8a47a84e.gif)
