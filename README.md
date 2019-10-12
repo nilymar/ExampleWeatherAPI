@@ -1,5 +1,8 @@
 # ExampleWeatherAPI
 example for fetching data from the Internet, using weather API - APIXU: https://www.apixu.com/
+----------------------------------------------------------------------------------------------------------------------------------------- 
+ !!! ATTENTION!!!!! - the api was replaced by a new one - weatherstack - I didn't update the code here - so it will require some work....
+ -----------------------------------------------------------------------------------------------------------------------------------------
 
 i used RecyclerView to show forecast for up to 7 days (with an object for storing weather data for each day)
 
